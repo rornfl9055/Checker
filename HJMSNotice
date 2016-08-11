@@ -1,4 +1,4 @@
-@prefix@§a[공지] §r@prefix@
+@prefix@§a[공지] §r@prefixend@
 @time@10@time@
-@notice@첫번째 공지@notice@
-@notice@두번째 공지@notice@
+@notice@첫번째 공지@noticeend@
+@notice@두번째 공지@noticeend@
